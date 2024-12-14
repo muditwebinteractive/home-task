@@ -29,7 +29,7 @@ body {
   position: absolute;
   left: 0;
   bottom: 0;
-  width: 100px;
+  /* width: 100px; */
 }
 
 .floor {
@@ -39,7 +39,7 @@ body {
   align-items: center;
   border-top: 1px solid #ddd;
 }
-
+.elevator h3{font-size: 12px;}
 .elevators {
   display: flex;
   justify-content: space-around;
@@ -51,7 +51,7 @@ body {
   width: 50px;
   height: 50px;
   background-color: gray;
-  position: absolute;
+  /* position: absolute; */
   bottom: 0;
   text-align: center;
   color: white;
